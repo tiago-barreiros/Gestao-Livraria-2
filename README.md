@@ -46,7 +46,7 @@ Encomendas/Compras/Vendas.
 
 ### Repositório GitHub
 
-Após a entrega deste projeto ficará publico :  https://github.com/tiago-barreiros/Gestao-Livraria-1
+Após a entrega deste projeto ficará publico :  https://github.com/tiago-barreiros/Gestao-Livraria-2
 
 <!-- 
 ## Limites
